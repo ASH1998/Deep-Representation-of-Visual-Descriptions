@@ -24,8 +24,8 @@ Caption Generation with Attention:
 
  Team Members    |            Github             |            LinkedIN
 :-------------------------:|:-------------------------:|:-------------------------:     
-Ashutosh Mishra`LEAD`|[Github](https://github.com/ASH1998/)  |  [LinkedIN](https://www.linkedin.com/in/ashutosh-mishra-a1ba01142/)      
-V. Praveen|[Github](https://github.com/praveenvoonna) | [LinkedIN](https://www.linkedin.com/in/praveenv-17)   
+Ashutosh Mishra `LEAD`|[ASH1998](https://github.com/ASH1998/)  |  [Ashutosh's LinkedIN](https://www.linkedin.com/in/ashutosh-mishra-a1ba01142/)      
+V. Praveen|[praveenvoona](https://github.com/praveenvoonna) | [Praveen's LinkedIN](https://www.linkedin.com/in/praveenv-17)   
 Deepak Kumar Behera|[Github]()|[LinkedIN]()
 Madan Mohan Mohapatra|[Github]()|[LinkedIN]()
 
