@@ -15,6 +15,8 @@
 
 
 ## Current Outputs
+
+Caption Generation with Attention:    
 ![](output/coco_DAMSM_2018_10_10_04_42_55/Image/attention_maps0.png)
 
 
