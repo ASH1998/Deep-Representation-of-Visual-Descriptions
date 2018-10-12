@@ -21,10 +21,13 @@ Caption Generation with Attention:
 
 
 ## Contributors
-1. [Ashutosh Mishra](https://github.com/ASH1998/) `LEAD`
-2. [V. Praveen]()
-3. [Deepak Kumar Behera]()
-4. [Madan Mohan Mohapatra]()
+
+ Team Members    |            Github             |            LinkedIN
+:-------------------------:|:-------------------------:|:-------------------------:     
+Ashutosh Mishra`LEAD`|[Github](https://github.com/ASH1998/)  |  [LinkedIN](https://www.linkedin.com/in/ashutosh-mishra-a1ba01142/)      
+V. Praveen|[Github](https://github.com/praveenvoonna) | [LinkedIN](https://www.linkedin.com/in/praveenv-17)   
+Deepak Kumar Behera|[Github]()|[LinkedIN]()
+Madan Mohan Mohapatra|[Github]()|[LinkedIN]()
 
 ## Contributing :
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/issues)
