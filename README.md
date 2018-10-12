@@ -1,5 +1,7 @@
 # Deep-Representation-of-Visual-Descriptions
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)  [![HitCount](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions.svg)](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)  [![HitCount](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions.svg)](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions)   
+`The project is ongoing, so changes will be frequent!!`
+
 
 ## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
@@ -24,3 +26,6 @@
 
 ## Contributing :
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
+## Website :
+[https://ash1998.github.io/Deep-Representation-of-Visual-Descriptions/](https://ash1998.github.io/Deep-Representation-of-Visual-Descriptions/)
