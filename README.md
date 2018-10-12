@@ -25,7 +25,7 @@
 4. [Madan Mohan Mohapatra]()
 
 ## Contributing :
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/issues)
 
 ## Website :
 [https://ash1998.github.io/Deep-Representation-of-Visual-Descriptions/](https://ash1998.github.io/Deep-Representation-of-Visual-Descriptions/)
