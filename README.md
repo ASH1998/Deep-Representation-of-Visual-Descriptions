@@ -24,6 +24,16 @@
 
 ## Current Outputs
 
+`Text : flat screen television on top of an old tv console`  
+![](models/coco_AttnGAN2/example_captions/0_s_11_g2.png)
+![](models/coco_AttnGAN2/example_captions/0_s_11_a1.png)
+
+
+`Text : a large red and white boat floating on top of a lake`  
+![](models/coco_AttnGAN2/example_captions/0_s_3_g2.png)
+![](models/coco_AttnGAN2/example_captions/0_s_3_a1.png)
+
+
 `TEXT :this bird is red and white in color with a stubby beak and red eye rings`  
 ![](models/bird_AttnGAN2/next/0_s_3_g2.png)
 ![](models/bird_AttnGAN2/next/0_s_3_a1.png)
