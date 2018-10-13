@@ -1,11 +1,13 @@
-# Deep-Representation-of-Visual-Descriptions
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/issues)  [![HitCount](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions.svg)](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions)   
+# Deep-Representation-of-Visual-Descriptions  
+[![HitCount](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions.svg)](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions)    [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=popout)](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/)  ![](https://img.shields.io/jenkins/s/https/jenkins.qa.ubuntu.com/view/Precise/view/All%20Precise/job/precise-desktop-amd64_default.svg)  
 `The project is ongoing, so changes will be frequent!!`
 
 
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](https://ash1998.github.io/Deep-Representation-of-Visual-Descriptions/)
+## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](https://ash1998.github.io/Deep-Representation-of-Visual-Descriptions/) 
 
-## Dependencies
+
+## Documentation [![wiki](https://img.shields.io/badge/Wiki-GO-brightgreen.svg)](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/wiki)
+## Dependencies ![](https://img.shields.io/depfu/depfu/example-ruby.svg)
 1. Python
 2. Pytorch
 3. torchfile
@@ -16,6 +18,7 @@
 8. easydict
 
 ## Data Download
+### Repo : ![](https://img.shields.io/badge/repo%20size-100MB-blue.svg)
 
 ## Models :
 ### Trained models:
