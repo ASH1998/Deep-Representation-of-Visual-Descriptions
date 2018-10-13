@@ -18,7 +18,7 @@
 8. easydict
 
 ## Data Download
-### Repo : ![](https://img.shields.io/badge/repo%20size-100MB-blue.svg)
+### Repo : ![](https://img.shields.io/badge/repo%20size-273.93MiB-blue.svg)
 
 ## Models :
 ### Trained models:
