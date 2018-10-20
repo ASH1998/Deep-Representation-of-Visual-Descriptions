@@ -52,12 +52,7 @@
 
 ## Contributors
 
- Team Members    |            Github             |            LinkedIN
-:-------------------------:|:-------------------------:|:-------------------------:     
-Ashutosh Mishra `LEAD`|[ASH1998](https://github.com/ASH1998/)  |  [Ashutosh's LinkedIN](https://www.linkedin.com/in/ashutosh-mishra-a1ba01142/)      
-V. Praveen|[praveenvoona](https://github.com/praveenvoonna) | [Praveen's LinkedIN](https://www.linkedin.com/in/praveenv-17)   
-Deepak Kumar Behera|[Github]()|[LinkedIN]()
-Madan Mohan Mohapatra|[Github]()|[LinkedIN]()
+
 
 ## Contributing :
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/issues)
