@@ -21,6 +21,10 @@
 ### Repo : [![](https://img.shields.io/badge/download%20repo:-273.93MiB-blue.svg)](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/archive/master.zip)
 
 ## Models :
+
+Model Architecture  :
+
+![](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/blob/master/project.png)
 ### Trained models:
 ### Eval models
 
