@@ -8,7 +8,7 @@
 
 ## Documentation [![wiki](https://img.shields.io/badge/Wiki-GO-brightgreen.svg)](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/wiki)
 ## Dependencies ![](https://img.shields.io/depfu/depfu/example-ruby.svg)
-1. Python
+1. Python 3.0
 2. Pytorch
 3. torchfile
 4. nltk- ('punkt')
@@ -16,6 +16,9 @@
 6. scikit-learn
 7. python-dateutil
 8. easydict
+9. shutil
+10. Matplotlib
+11. Scikit-Image(skimage)
 
 ## Data Download
 ### Repo : [![](https://img.shields.io/badge/download%20repo:-273.93MiB-blue.svg)](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/archive/master.zip)
@@ -28,7 +31,14 @@ Model Architecture  :
 ### Trained models:
 ### Eval models
 
+## Using Jupyter
 
+[View Notebook](code/Driver!!.ipynb). This notebook uses the data and pretrained models to take in sentences from the user and provide the outputs.
+#### BIRD GENERATED IMAGES
+![](jup1.png)
+
+#### COCO GENERATED IMAGES
+![](jup2.png)
 ## Current Outputs
 
 ##### `Text : flat screen television on top of an old tv console`  
