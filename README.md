@@ -1,6 +1,7 @@
 # Deep-Representation-of-Visual-Descriptions  
-[![HitCount](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions.svg)](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions)    [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=popout)](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/)  ![](https://img.shields.io/jenkins/s/https/jenkins.qa.ubuntu.com/view/Precise/view/All%20Precise/job/precise-desktop-amd64_default.svg)  
-`The project is ongoing, so changes will be frequent!!`
+[![HitCount](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions.svg)](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions)     [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=popout)](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/)  ![](https://img.shields.io/jenkins/s/https/jenkins.qa.ubuntu.com/view/Precise/view/All%20Precise/job/precise-desktop-amd64_default.svg)  
+`The project is ongoing, so changes will be frequent!!`     
+The aim of this project is about simplifying the concept of Attention mechanisn in using it for generating images given some visual description for the images to be genrated.
 
 
 ## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](https://ash1998.github.io/Deep-Representation-of-Visual-Descriptions/) 
@@ -62,10 +63,6 @@ Model Architecture  :
 
 ##### Caption Generation with Attention:    
 ![](output/coco_DAMSM_2018_10_10_04_42_55/Image/attention_maps0.png)
-
-
-## Contributors
-
 
 
 ## Contributing :
