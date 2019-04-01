@@ -35,10 +35,10 @@ Model Architecture  :
 
 [View Notebook](code/Driver!!.ipynb). This notebook uses the data and pretrained models to take in sentences from the user and provide the outputs.
 #### BIRD GENERATED IMAGES
-![](jup1.png)
+![](jup3.png)
 
 #### COCO GENERATED IMAGES
-![](jup2.png)
+![](jup4.png)
 ## Current Outputs
 
 ##### `Text : flat screen television on top of an old tv console`  
