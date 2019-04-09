@@ -13,9 +13,6 @@ Constructs a unit mapping.
 $$(H_1 + H_n, q) => (a)$$
 Where H is of `batch x n x dim` and q is of `batch x dim`.
 
-References:
-https://github.com/OpenNMT/OpenNMT-py/tree/fc23dfef1ba2f258858b2765d24565266526dc76/onmt/modules
-http://www.aclweb.org/anthology/D15-1166
 """
 
 import torch
