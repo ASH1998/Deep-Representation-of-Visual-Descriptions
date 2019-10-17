@@ -1,6 +1,6 @@
 # Deep-Representation-of-Visual-Descriptions  
 [![HitCount](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions.svg)](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions)     ![](https://img.shields.io/jenkins/s/https/jenkins.qa.ubuntu.com/view/Precise/view/All%20Precise/job/precise-desktop-amd64_default.svg)  
-`The project is ongoing, so changes will be frequent!!`     
+  
 The aim of this project is about simplifying the concept of Attention mechanism in using it for generating images given some visual description for the images to be genrated.
 
 
