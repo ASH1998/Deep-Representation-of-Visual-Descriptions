@@ -22,7 +22,7 @@ The aim of this project is about simplifying the concept of Attention mechanism 
 11. Scikit-Image(skimage)
 
 ## Data Download
-### Repo : [![](https://img.shields.io/badge/download%20repo:-273.93MiB-blue.svg)](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/archive/master.zip)
+### Repo : [![](https://img.shields.io/badge/download%20repo:-284.25MiB-blue.svg)](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/archive/master.zip)
 
 1. MS-COCO
 This consists of `class_names = ['BG', 'person', 'bicycle', 'car', 'motorcycle', 'airplane',
