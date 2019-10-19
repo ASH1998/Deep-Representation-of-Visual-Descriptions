@@ -1,6 +1,7 @@
 # Deep-Representation-of-Visual-Descriptions  
 [![HitCount](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions.svg)](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions)     ![](https://img.shields.io/jenkins/s/https/jenkins.qa.ubuntu.com/view/Precise/view/All%20Precise/job/precise-desktop-amd64_default.svg)  
- This is a direct implementation of the paper [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks by Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.](https://arxiv.org/pdf/1612.03242v1.pdf).
+ This is a direct implementation of the paper [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks by Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.](https://arxiv.org/pdf/1612.03242v1.pdf)       
+ Some parts of the code has been taken from [StackGAN repo of hanzhanggit](https://github.com/hanzhanggit/StackGAN)
 
 The aim of this project is about simplifying the concept of Attention mechanism in using it for generating images given some visual description for the images to be genrated.
 
