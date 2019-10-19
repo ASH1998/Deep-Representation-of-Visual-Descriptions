@@ -3,7 +3,7 @@
  This is a direct implementation of the paper [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks by Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.](https://arxiv.org/pdf/1612.03242v1.pdf)       
  Some parts of the code has been taken from [StackGAN repo of hanzhanggit](https://github.com/hanzhanggit/StackGAN)
 
-The aim of this project is about simplifying the concept of Attention mechanism in using it for generating images given some visual description for the images to be genrated.
+The aim of this project is about simplifying the concept of Attention mechanism in using it for generating images given some visual description for the images to be genrated using the modern tools.
 
 ## Documentation [![wiki](https://img.shields.io/badge/Wiki-GO-brightgreen.svg)](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/wiki)
 ## Dependencies ![](https://img.shields.io/depfu/depfu/example-ruby.svg)
