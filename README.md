@@ -1,7 +1,7 @@
 # Deep-Representation-of-Visual-Descriptions  
 [![HitCount](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions.svg)](http://hits.dwyl.io/ASH1998/Deep-Representation-of-Visual-Descriptions)     ![](https://img.shields.io/jenkins/s/https/jenkins.qa.ubuntu.com/view/Precise/view/All%20Precise/job/precise-desktop-amd64_default.svg)  
  This is a direct implementation of the paper [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks by Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.](https://arxiv.org/pdf/1612.03242v1.pdf)       
- Some parts of the code has been taken from [StackGAN repo of hanzhanggit](https://github.com/hanzhanggit/StackGAN)
+Parts of the implementation has been taken from [StackGAN repo of hanzhanggit](https://github.com/hanzhanggit/StackGAN)
 
 The aim of this project is about simplifying the concept of Attention mechanism in using it for generating images given some visual description for the images to be genrated using the modern tools.
 
@@ -42,9 +42,9 @@ This consists of `class_names = ['BG', 'person', 'bicycle', 'car', 'motorcycle',
 
 ## Models :
 
-Model Architecture  :
+Model Architecture  : [StackGAN, hanzhanggit](https://github.com/hanzhanggit/StackGAN)
 
-![](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/blob/master/project.png)
+![](https://github.com/hanzhanggit/StackGAN/raw/master/examples/framework.jpg)
 ### Trained models:
 ### Eval models
 
